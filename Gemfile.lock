@@ -81,7 +81,9 @@ GEM
       activesupport (>= 4.2.0)
     i18n (1.8.7)
       concurrent-ruby (~> 1.0)
+
     jbuilder (2.11.1)
+
       activesupport (>= 5.0.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -97,20 +99,23 @@ GEM
     method_source (1.0.0)
     mimemagic (0.3.5)
     mini_mime (1.0.2)
-<<<<<<< Updated upstream
-=======
+
+
+
     mini_portile2 (2.5.0)
->>>>>>> Stashed changes
+
     minitest (5.14.3)
     msgpack (1.3.3)
     mysql2 (0.5.3)
     nio4r (2.5.4)
-<<<<<<< Updated upstream
+
+
     nokogiri (1.11.1-x86_64-darwin)
-=======
+
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
->>>>>>> Stashed changes
+
+
       racc (~> 1.4)
     pry (0.13.1)
       coderay (~> 1.1)
